@@ -115,3 +115,6 @@ const App: React.FC = () => {
 };
 
 export default App;
+    
+    // With our app, you can easily track the prices of all your favorite cryptocurrencies in real-time, including Bitcoin, Ethereum, Litecoin, and more. Our app provides you with accurate and up-to-date information on the latest prices, market trends, and trading volumes, so you can make informed decisions about your investments. Whether you're a seasoned crypto trader or just getting started, our app is the perfect tool for keeping track of the ever-changing crypto market. ###########################################################################################################################################################################################################################################################################################################################################################################################################################################################################################
+ // Developed & Designed by Ramazan Azimli. ALl Rights Reserved.
